@@ -1,0 +1,27 @@
+{
+  "name": "randomjs",
+  "version": "1.0.0",
+  "description": "Generate a random string that matches a given RegExp JavaScript object.",
+  "main": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nswbmw/node-randomjs.git"
+  },
+  "keywords": [
+    "random",
+    "randomjs",
+    "random number",
+    "random word",
+    "random string",
+    "randexp",
+    "RegExp"
+  ],
+  "author": "nswbmw",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nswbmw/node-randomjs/issues"
+  },
+  "dependencies": {
+    "randexp": "*"
+  }
+}
