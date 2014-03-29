@@ -2,6 +2,10 @@
 
 Thanks for [fent](https://github.com/fent)'s [randexp](https://github.com/fent/randexp.js). try [http://fent.github.io/randexp.js/](http://fent.github.io/randexp.js/) for more infomation.
 
+### Install ###
+
+    npm install randomjs
+
 ### Usage ###
 
     var randomjs = require('randomjs');
